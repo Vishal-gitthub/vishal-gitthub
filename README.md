@@ -13,7 +13,7 @@ width="30px">&nbsp;Vishal Sharma </h4>
 - 🌱 I’m currently learning **Full Stack Development**
 
 
-- 👨‍💻 some of my projects are available at : [Vishal.com]()
+- 👨‍💻 some of my projects are available at : [Vishal.com](https://github.com/Vishal-gitthub)
 
 
 - 💬 Ask me about **Html,Css,JavaScript,Reactjs,Bootstrap Css,Tailwind Css**
@@ -22,7 +22,7 @@ width="30px">&nbsp;Vishal Sharma </h4>
 
 - 📄 Know about my experiences
 
-- 📄  My Resume :   [Vishal Sharma Resume]()
+- 📄  My Resume :   [Vishal Sharma Resume](https://drive.google.com/file/d/1OY0pZHUyvfuo_zU1EsP64ETidpIF_Z3q/view?usp=sharing)
 <br /> <br />
 <br /> <br />
 
