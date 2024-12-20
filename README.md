@@ -12,9 +12,7 @@ width="30px">&nbsp;Vishal Sharma </h4>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-
-- 👨‍💻 some of my projects are available at : [Vishal.com]([https://vishal-net.vercel.app/project])
-
+- 👨‍💻 Some of my projects are available at: [Vishal.com](https://vishal-net.vercel.app/project)
 
 - 💬 Ask me about **Html,Css,JavaScript,Reactjs,Bootstrap Css,Tailwind Css**
 
