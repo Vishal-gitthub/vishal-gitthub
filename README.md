@@ -20,7 +20,7 @@ width="30px">&nbsp;Vishal Sharma </h4>
 
 - 📄 Know about my experiences
 
-- 📄  My Resume :   [Vishal Sharma Resume](https://drive.google.com/file/d/1OY0pZHUyvfuo_zU1EsP64ETidpIF_Z3q/view?usp=sharing)
+- 📄  My Resume :   [Vishal Sharma Resume](https://drive.google.com/file/d/1_NYLnPLs6jS8fC19EQ-0T7u6Fe4tygH6/view?usp=drive_link)
 <br /> <br />
 <br /> <br />
 
